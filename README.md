@@ -51,11 +51,7 @@ Face_attendance_system(FAS)/
 - Start the application to begin real-time face recognition.
 - The system will detect faces and mark attendance automatically.
 
-## Contributing
-Feel free to submit pull requests or report issues.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 - OpenCV for image processing
